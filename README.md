@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hi, I'm Sajedah Alqudaihi
 
-<!--
-**Sajedah25/Sajedah25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently pursuing a Bachelor of Science in Artificial Intelligence at Imam Abdulrahman bin Faisal University.
 
-Here are some ideas to get you started:
+💡 I'm passionate about AI, machine learning, and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 I'm skilled in Python, Java, SQL, C++, and Microsoft Office..
+
+📚 Certified in:
+- Developing a Critical Thinking Mindset (LinkedIn Learning)
+- Power BI Dashboards for Beginners (LinkedIn Learning)
+- SQL for Data Analysis (LinkedIn Learning)
+
+🤝 Currently a proud member of the Handis Hackathon design team.
+
+📫 How to reach me: **saalqudaihi@gmail.com**
